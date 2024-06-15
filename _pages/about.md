@@ -14,3 +14,12 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+Dear Reader,
+
+This is an archive of my high-quality, non-trivial answers at Zhihu.
+
+Hope it helps you.
+
+Cheers,
+Matcha Frappuccino

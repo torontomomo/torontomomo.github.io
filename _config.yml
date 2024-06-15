@@ -6,12 +6,12 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Matcha Frappuccino
 middle_name: 
 last_name:
-email: matchafrapp@outlook.sg
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 keywords: # add your own keywords or leave empty
 lang: en, cn # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: emoji.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: doraemon.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://matchafrappuccino.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -158,8 +158,8 @@ disqus_shortname: matcha-frappuccino # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  - name: #medium.com
+    rss_url: #https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
