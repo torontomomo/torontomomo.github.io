@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://matchafrappuccino.github.io/sitemap.xml
+Sitemap: https://torontomomo.github.io/sitemap.xml
