@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Homepage
 permalink: /
 subtitle: Archive of Zhihu articles | 知乎文章存档
 
